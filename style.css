@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: #212121;
+    color: white;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    height: 100px;
+    width: 100px;
+    margin: 1rem;
+}
+
+#red {
+    background-color: red;
+}
+
+#green{
+    background-color: green;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#blue {
+    background-color: blue;
+}
